@@ -14,3 +14,7 @@ Features
 5. Fully offline — no internet/API required
 
 6. Beginner-friendly project to understand Promise
+
+
+![Wether result Output Screenshot]("D:\Wether Checker [promise Version]\Wether checker.png")
+
